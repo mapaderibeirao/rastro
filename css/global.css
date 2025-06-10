@@ -24,6 +24,13 @@ text-shadow: 1px 1px 4px black;
 }
 .bg-mototurismo{
   background-image: url("../img/fundo-mototurismo.jpg");
+  
+  height: 100%; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */ 
+  background-attachment: fixed;    		  
+  
 }
 .bg-rota{
   background-image: url("../img/fundo-rota.jpg");
