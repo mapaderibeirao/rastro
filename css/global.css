@@ -22,29 +22,11 @@ text-shadow: 1px 1px 4px black;
 .bg-home{
   background-image: linear-gradient(black, white, white, white);
 }
-.bg-gastronomia{
-  background-image: url("../img/fundo-gastronomia.jpg");
+.bg-mototurismo{
+  background-image: url("../img/fundo-mototurismo.jpg");
 }
-.bg-fazer{
-  background-image: url("../img/fundo-fazer.jpg");
-}
-.bg-comer{
-  background-image: url("../img/fundo-comer.jpg");
-}
-.bg-ficar{
-  background-image: url("../img/fundo-ficar.jpg");
-}
-.bg-mais{
-  background-image: url("../img/fundo-mais.jpg");
-}
-.bg-sobre{
-  background-image: url("../img/fundo-sobre.jpg");
-}
-.bg-vote{
-  background-image: url("../img/fundo-sobre.jpg");
-}
-.bg-artesanato{
-  background-image: url("../img/fundo-artesanato.jpg");
+.bg-rota{
+  background-image: url("../img/fundo-rota.jpg");
 }
 
 
