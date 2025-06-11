@@ -1,2 +1,7 @@
 Ribeirão Grande - O Rastro da Serpente Passa Por Aqui!
-Descubra ecperiências inscríveis que a rota do Rastro da Serpente em Ribeirão Grande oferece para você!
+
+Descubra experiências incríveis que a rota do Rastro da Serpente em Ribeirão Grande oferece para você!
+
+Confira o site:
+
+https://mapaderibeirao.github.io/rastro/
