@@ -28,6 +28,16 @@
         background-position: center center;
       }
 
+
+
+      .carousel-item-mir:nth-child(1) {
+        background-image: url('../img/fundo-mirante.jpg');
+      }
+      .carousel-item-roj:nth-child(1) {
+        background-image: url('../img/fundo-rojao.jpg');
+      }
+
+
       /* Height for devices larger than 576px */
       @media (min-width: 992px) {
         #introCarousel {
